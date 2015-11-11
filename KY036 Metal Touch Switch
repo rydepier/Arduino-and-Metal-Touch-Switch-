@@ -6,8 +6,8 @@ DO to Arduino pin 2
 G to Arduino Gnd
 Vcc to Arduino 5v
 *******************************************************/
-
-
+// 
+//
 // setup touch sensor on pin 2
 const int touchPin = 2;
 // setup LED on pin 13
